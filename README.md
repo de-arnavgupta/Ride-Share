@@ -40,7 +40,7 @@ Source root (simplified):
 
 Check `src/main/resources/application.properties` for:
 
-- `server.port` – HTTP port (default is usually `8080` or as set by your instructor).
+- `server.port` – HTTP port (default is usually `8080`).
 - `spring.data.mongodb.uri` – MongoDB connection URI.
 
 Adjust these values if needed for your environment.
